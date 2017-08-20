@@ -6,6 +6,9 @@ Instructions -
 
 3. Open tkinter GUI interface
 
-4. Choose Sound and Area AND CLICK ON CHOOSE FOR BOTH
+4. Choose Sound and Area - CLICK ON CHOOSE FOR BOTH
 
-5. Convolve & Write!
+5. Convolve & Write! The file will be written to the project folder.
+
+
+* More info on how to customize sounds and Impulse Responses coming soon
